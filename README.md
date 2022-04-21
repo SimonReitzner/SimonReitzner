@@ -1,3 +1,3 @@
-👋 Hi, I’m @SimonReitzner
+👋 Hi, I’m Simon
 
-I’m interested in machine learning and everything else to do with data. I’m currently learning docker and new ml models.
+I’m interested in machine learning and data analysis in general. I’m currently learning docker and new ml models.
